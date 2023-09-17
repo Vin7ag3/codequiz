@@ -6,8 +6,9 @@ build a timed coding quiz with multiple-choice questions. This app will run in t
 
 ## Installation
 
+![Opera Snapshot_2023-09-16_235548_vin7ag3 github io](https://github.com/Vin7ag3/codequiz/assets/48032663/62d73f89-370e-4bad-92a1-2cde95544823)
 Repository - https://github.com/Vin7ag3/codequiz
-deployed page - 
+deployed page - https://vin7ag3.github.io/codequiz/
 
 ## Usage
 
